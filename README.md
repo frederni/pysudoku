@@ -11,3 +11,7 @@ Features:
 
 Requirements:
 * Numpy (`pip install numpy`)
+
+Examples:
+
+![img](https://user-images.githubusercontent.com/23258333/200067403-b337ad8b-4a20-4db6-a296-7713e4520392.png)
