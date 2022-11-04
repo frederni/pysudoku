@@ -1,5 +1,6 @@
 # pysudoku
 *A barebones Sudoku game in Python terminal*
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 This is not much more than a procrastination project I did an afternoon when I didn't want to work on my projects with upcoming deadlines.
 
